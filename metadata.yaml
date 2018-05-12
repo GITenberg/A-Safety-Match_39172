@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '4304'
     url: http://www.gutenberg.org/2009/agents/4304
 description: The striking of the match -- Flickerings -- The lighting of the candle.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39172#A-Safety-Match
 gutenberg_issued: '2012-03-17'
 gutenberg_type: Text
 identifiers:
